@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sec3{
+    justify-content: center;
+    text-align: center;
+    height: 600px;
+    background-color: aqua;
+     height: 500px;
+    
+    
+    align-items: center;
+}
+.contact{
+    
+    
+    color: bisque;
+    background-color: bisque;
+    margin-top: 200px;
+}
+  h1{
+    font-size: 70px;
+    
+    
+}
+.sec3 h3{
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+.email{
+    background-color: black;
+    width: 30%;
+    margin-left: 35%;
+    
+    padding: 10px;
+    
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: bisque;
+    
+
+}
+.email a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.mobile{
+   background-color: black;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: auto;
+    padding: 10px;
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: beige;
+}
+.mobile a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.mobile:hover{
+      background-color: rgba(245, 0, 135, 0.788);
+      color: aliceblue;
+      
+}
+.email:hover{
+    background-color: rgba(245, 0, 135, 0.788);
+      color: aliceblue;
+}
+.cr{
+    font-size: 17px;
+    margin-top: 40px;
+}
+
