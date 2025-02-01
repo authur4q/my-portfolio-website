@@ -96,10 +96,6 @@
 .send:hover{
     background-color: rgba(100, 9, 185, 0.863);
 }
-.email a{
-    text-decoration: none;
-    color: antiquewhite;
-}
 .mobile{
    background-color: black;
     width: 30%;
