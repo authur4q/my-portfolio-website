@@ -7,7 +7,7 @@
     text-align: center;
     height: 600px;
     background-color: aqua;
-     height: 500px;
+     height: 900px;
     
     
     align-items: center;
@@ -33,15 +33,68 @@
     background-color: black;
     width: 30%;
     margin-left: 35%;
-    
+    height: 400px;
     padding: 10px;
-    
+    display: block;
     margin-top: 20px;
     font-size: 20px;
     border-radius: 20px;
     color: bisque;
+    align-items: center;
     
 
+}
+#name{
+    height: 30px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 30px;
+    border: none;
+    width: 90%;
+
+}
+#email{
+     height: 30px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: none;
+    width: 90%;
+}
+#ta{
+     height: 100px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 90%;
+
+}
+#ta:placeholder-shown{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+#name:placeholder-shown{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#email:placeholder-shown{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.send{
+    padding: 10px;
+    font-weight: bolder;
+    border-radius: 20px;
+    background-color: rgb(172, 0, 0);
+    font-size: 16px;
+    margin-right: 290px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.send:hover{
+    background-color: rgba(100, 9, 185, 0.863);
 }
 .email a{
     text-decoration: none;
@@ -76,4 +129,5 @@
     font-size: 17px;
     margin-top: 40px;
 }
+
 
